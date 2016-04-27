@@ -1,5 +1,5 @@
 module SuiteSparse
 
-# package code goes here
+include("csparse.jl")
 
 end # module
