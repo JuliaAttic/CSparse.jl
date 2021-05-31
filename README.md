@@ -1,4 +1,4 @@
-# SuiteSparse
+# CSparse (Part of SuiteSparse)
 
 [![Build Status](https://travis-ci.org/JuliaSparse/SuiteSparse.jl.svg?branch=master)](https://travis-ci.org/JuliaSparse/SuiteSparse.jl)
 
